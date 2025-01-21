@@ -1,0 +1,9 @@
+﻿  SongsList.cpp
+E:\SongsList\SongsList.cpp(79,17): warning C4129: "-": нераспознанная escape-последовательность символов
+E:\SongsList\SongsList.cpp(443,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\SongsList\SongsList.cpp(431,9): warning C4101: c: неиспользованная локальная переменная
+E:\SongsList\SongsList.cpp(482,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\SongsList\SongsList.cpp(470,13): warning C4101: c: неиспользованная локальная переменная
+E:\SongsList\SongsList.cpp(548,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\SongsList\SongsList.cpp(536,10): warning C4101: buf: неиспользованная локальная переменная
+  SongsList.vcxproj -> E:\SongsList\x64\Debug\SongsList.exe
